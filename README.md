@@ -1,0 +1,2 @@
+# UZCompressorBot
+Video Hajmini kamaytirish
